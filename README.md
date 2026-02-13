@@ -34,10 +34,17 @@ I'm a career switcher from education into tech — currently studying software e
 | **[born2beroot](https://github.com/dayanajad/born2beroot)** | Debian VM setup with security policies, firewall, SSH, monitoring scripts | ✅ Completed |
 | **[philosophers](https://github.com/dayanajad/philosophers)** | Dining Philosophers — multithreading with POSIX threads & mutexes | ✅ Completed |
 | **[push_swap](https://github.com/dayanajad/push_swap)** | Sorting algorithm optimized for minimal operations | ✅ Completed |
-| **[minitalk](https://github.com/dayanajad/minitalk.git)** | Client-server IPC using Unix signals (SIGUSR1/SIGUSR2) | ✅ Completed |
-| **[so_long](https://github.com/dayanajad/so_long.git)** | 2D game with graphical rendering using MiniLibX | ✅ Completed |
-| **[get_next_line](https://github.com/dayanajad/get_next_line.git)** | File reading utility with dynamic memory management | ✅ Completed |
-| **[Libft](https://github.com/dayanajad/Libft.git)** | Custom C standard library | ✅ Completed |
+| **minitalk** | Client-server IPC using Unix signals (SIGUSR1/SIGUSR2) | ✅ Completed |
+| **so_long** | 2D game with graphical rendering using MiniLibX | ✅ Completed |
+| **get_next_line** | File reading utility with dynamic memory management | ✅ Completed |
+| **Libft** | Custom C standard library | ✅ Completed |
+| **CPP Modules 00–04** | Object-oriented programming in C++ | 📋 Up Next |
+| **MiniRT / Cub3D** | 3D raycasting engine or ray tracer | 📋 Up Next |
+| **NetPractice** | Networking & IP addressing exercises | 📋 Up Next |
+| **CPP Modules 05–09** | Advanced C++ — templates, containers, iterators | 📋 Up Next |
+| **Inception** | Docker-based system administration with containers | 📋 Up Next |
+| **ft_irc / Webserv** | IRC server or HTTP web server from scratch | 📋 Up Next |
+| **ft_transcendence** | Full-stack web application — final project | 📋 Up Next |
 
 ---
 
