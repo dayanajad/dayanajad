@@ -43,13 +43,13 @@ I'm a career switcher from education into tech — currently studying software e
 
 ### 🚀 Currently Learning
 
-| Topic | Platform | Status |
-|-------|----------|--------|
-| AWS Solutions Architect Associate | Yayasan Peneraju | 📖 In Progress |
-| Bash Scripting (Advanced) | Udemy | 📖 In Progress |
-| Docker Fundamentals | Udemy | 📋 Up Next |
-| Terraform Basics | Udemy | 📋 Up Next |
-| Python for Automation | Udemy | 📋 Up Next |
+| Topic | Status |
+|-------|--------|
+| AWS Solutions Architect Associate | 📖 In Progress |
+| Bash Scripting (Advanced) | 📖 In Progress |
+| Docker Fundamentals | 📋 Up Next |
+| Terraform Basics | 📋 Up Next |
+| Python for Automation | 📋 Up Next |
 
 ---
 
