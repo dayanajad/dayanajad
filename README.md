@@ -69,7 +69,7 @@ I'm a career switcher from education into tech — currently studying software e
 ### 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-dayanajad97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dayanajad97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/dayanajad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanajad)
 
 ---
 
