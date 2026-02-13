@@ -41,6 +41,18 @@ I'm a career switcher from education into tech — currently studying software e
 
 ---
 
+### 🚀 Currently Learning
+
+| Topic | Platform | Status |
+|-------|----------|--------|
+| AWS Solutions Architect Associate | Yayasan Peneraju | 📖 In Progress |
+| Bash Scripting (Advanced) | Udemy | 📖 In Progress |
+| Docker Fundamentals | Udemy | 📋 Up Next |
+| Terraform Basics | Udemy | 📋 Up Next |
+| Python for Automation | Udemy | 📋 Up Next |
+
+---
+
 ### 📊 GitHub Stats
 
 ![Dayana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayanajad&show_icons=true&theme=tokyonight&hide_border=true)
