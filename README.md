@@ -38,9 +38,9 @@ I'm a career switcher from education into tech — currently studying software e
 | **[so_long](https://github.com/dayanajad/so_long)** | 2D game with graphical rendering using MiniLibX | ✅ Completed |
 | **[get_next_line](https://github.com/dayanajad/get_next_line)** | File reading utility with dynamic memory management | ✅ Completed |
 | **[Libft](https://github.com/dayanajad/libft)** | Custom C standard library | ✅ Completed |
-| **CPP Modules 00–04** | Object-oriented programming in C++ | 📋 Up Next |
-| **MiniRT / Cub3D** | 3D raycasting engine or ray tracer | 📋 Up Next |
-| **NetPractice** | Networking & IP addressing exercises | 📋 Up Next |
+| **[CPP Modules 00–04](https://github.com/dayanajad/CPP_00-04.git)** | Object-oriented programming in C++ | 📖 In Progress |
+| **[Cub3D](https://github.com/dayanajad/cub3d.git)** | 3D raycasting engine or ray tracer | 📖 In Progress |
+| **[NetPractice](https://github.com/dayanajad/netpractice.git)** | Networking & IP addressing exercises | 📖 In Progress |
 | **CPP Modules 05–09** | Advanced C++ — templates, containers, iterators | 📋 Up Next |
 | **Inception** | Docker-based system administration with containers | 📋 Up Next |
 | **ft_irc / Webserv** | IRC server or HTTP web server from scratch | 📋 Up Next |
