@@ -40,7 +40,7 @@ I'm a career switcher from education into tech — currently studying software e
 | **[Libft](https://github.com/dayanajad/libft)** | Custom C standard library | ✅ Completed |
 | **[CPP Modules 00–04](https://github.com/dayanajad/CPP_00-04.git)** | Object-oriented programming in C++ | 📖 In Progress |
 | **[Cub3D](https://github.com/dayanajad/cub3d.git)** | 3D raycasting engine or ray tracer | 📖 In Progress |
-| **[NetPractice](https://github.com/dayanajad/netpractice.git)** | Networking & IP addressing exercises | 📖 In Progress |
+| **[NetPractice](https://github.com/dayanajad/netpractice.git)** | Networking & IP addressing exercises | ✅ Completed |
 | **CPP Modules 05–09** | Advanced C++ — templates, containers, iterators | 📋 Up Next |
 | **Inception** | Docker-based system administration with containers | 📋 Up Next |
 | **ft_irc / Webserv** | IRC server or HTTP web server from scratch | 📋 Up Next |
