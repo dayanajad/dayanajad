@@ -62,7 +62,7 @@ I'm a career switcher from education into tech — currently studying software e
 
 ### 📊 GitHub Stats
 
-![Dayana's GitHub stats](![GitHub Streak])(https://streak-stats.demolab.com?user=dayanajad&theme=tokyonight&hide_border=true)
+![Dayana's GitHub stats](https://streak-stats.demolab.com?user=dayanajad&theme=tokyonight&hide_border=true)
 
 ---
 
