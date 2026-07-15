@@ -38,7 +38,7 @@ I'm a career switcher from education into tech — currently studying software e
 | **[so_long](https://github.com/dayanajad/so_long)** | 2D game with graphical rendering using MiniLibX | ✅ Completed |
 | **[get_next_line](https://github.com/dayanajad/get_next_line)** | File reading utility with dynamic memory management | ✅ Completed |
 | **[Libft](https://github.com/dayanajad/libft)** | Custom C standard library | ✅ Completed |
-| **[CPP Modules 00–04](https://github.com/dayanajad/CPP_00-04.git)** | Object-oriented programming in C++ | 📖 In Progress |
+| **[CPP Modules 00–04](https://github.com/dayanajad/CPP_00-04.git)** | Object-oriented programming in C++ | ✅ Completed |
 | **[Cub3D](https://github.com/dayanajad/cub3d.git)** | 3D raycasting engine or ray tracer | ✅ Completed |
 | **[NetPractice](https://github.com/dayanajad/netpractice.git)** | Networking & IP addressing exercises | ✅ Completed |
 | **CPP Modules 05–09** | Advanced C++ — templates, containers, iterators | 📋 Up Next |
