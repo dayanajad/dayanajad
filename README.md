@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dayana
 
-### Aspiring Cloud Engineer | 42 KL Student
+### Software Engineering Student at 42 KL
 
 I'm a career switcher from education into tech — currently studying software engineering at **42 Kuala Lumpur** and working towards a career in cloud engineering. I build things in C, break things in Linux, and learn something new every day.
 
